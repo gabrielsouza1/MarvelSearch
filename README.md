@@ -22,5 +22,4 @@ você pode cadastrar sua **public** key aqui > [Marvel Developer Portal](http://
 Execute o comando `ng serve` para startar a aplicação. Você será redirecionado para http://localhost:4200
 
 
-## Dependencias
-rxjs, nodejs, express, material design
+
